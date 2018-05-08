@@ -1,0 +1,29 @@
+#map {
+    height: 50%;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 200%;
+    text-align: center;
+}
+h3{
+    font-size: 180%;
+    text-align: center;
+}
+p{
+    font-size: 120%
+}
+ul{
+    height: 150px;
+    overflow: scroll;
+}
+li{
+    display: block;
+    font-size: 100%;
+}
